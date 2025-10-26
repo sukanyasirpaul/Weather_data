@@ -70,3 +70,5 @@ KDE plots for numeric features
 Correlation heatmap
 
 Interactive Plotly histograms[weather_data_1761501120.pdf](https://github.com/user-attachments/files/23152331/weather_data_1761501120.pdf)
+[weather_data.csv](https://github.com/user-attachments/files/23152353/weather_data.csv)
+[weather_data.ipynb](https://github.com/user-attachments/files/23152358/weather_data.ipynb)
